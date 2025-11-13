@@ -8,5 +8,5 @@
 - CompTIA Network+</br>
 - CompTIA Security+
 
-<h2>Connect with me:</h2>
+<h2>Connect with me</h2>
 - tylerbill02@gmail.com
