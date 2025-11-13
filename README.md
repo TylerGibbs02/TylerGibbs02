@@ -1,6 +1,12 @@
-<h1>Hi, I'm Tyler! <br/><h2>Network Monitoring & Troubleshooting</h2><h2>Helpdesk & systems support</h2><h2>Cisco Networking & Automation</h2>
+<h1>Hi, I'm Tyler! <br/>
+  
+<h2>Labs</h2>
+- Campus Network Configuration in Cisco Packet Tracer
 
-<h2>👨‍💻 Cisco Device Configuration Labs:</h2>
+<h2>Certifications</h2>
+- Cisco Certified Networking Associate (CCNA)</br>
+- CompTIA Network+</br>
+- CompTIA Security+
 
-
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
+- tylerbill02@gmail.com
