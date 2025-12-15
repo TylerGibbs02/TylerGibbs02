@@ -2,7 +2,7 @@
   
 <h2>Labs</h2>
 - <a href="https://github.com/TylerGibbs02/campus-lan-packet-tracer">Campus Network Configuration in Cisco Packet Tracer</a> <br>
-- <a href="https://github.com/TylerGibbs02/Active-Directory-Domain-Services-Lab">Microsoft Active Directory In VMWare</a>
+- <a href="https://github.com/TylerGibbs02/Active-Directory-Domain-Services-Lab">Microsoft Active Directory In VMWare (IN PROGRESS)</a>
 
 <h2>Certifications</h2>
 - Cisco Certified Networking Associate (CCNA)</br>
